@@ -49,6 +49,24 @@ A simple way of edit text without enable developer mode and inspect element on b
 ![Off](Screenshots/Off.png)
 ---
 
+## Installation
+
+
+
+```bash
+  git clone https://github.com/Pradeep-1496/WebEdit.git
+  cd WebEdit
+```
+
+### Load in Browser
+
+- In chrome Enable Developer mode in Extension management.
+- Select Load unpacked option.
+- Select the folder of WebEdit where you clone the repo.
+- Pin the Extension (Web Edit)
+- Enjoy the tool
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
