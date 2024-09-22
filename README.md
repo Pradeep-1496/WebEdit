@@ -24,5 +24,11 @@ A simple way of edit text without enable developer mode and inspect element on b
 
 ## Screenshots
 
-![App Screenshot](Screenshots/Before.png)
+![Beforet](Screenshots/Before.png)
+
+![On](Screenshots/WhileOn.png)
+
+![EDit](Screenshots/Edit.png)
+
+![Off](Screenshots/Off.png)
 
