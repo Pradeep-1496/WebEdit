@@ -1,0 +1,39 @@
+html {
+  /* border: 1px solid black; */
+  height: 150px;
+  width: 250px;
+  background: #eaffff;
+  border-radius: 10px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.Container {
+  display: flex;
+  align-items: center;
+}
+button {
+  height: 40px;
+  width: 70px;
+  font-size: medium;
+  font-weight: 800;
+  border-radius: 15px;
+}
+.ON {
+  margin-right: 15px;
+  background-color: #00ff00;
+}
+.OFF {
+  margin-left: 15px;
+  background-color: #ff0000;
+}
+
+button:focus {
+  background-color: grey;
+}
