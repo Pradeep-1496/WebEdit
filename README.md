@@ -26,16 +26,27 @@ A simple way of edit text without enable developer mode and inspect element on b
 
 Before Editing
 
-- ![Beforet](Screenshots/Before.png)
+
+
+![Beforet](Screenshots/Before.png)
 
 Enable the Extension 
-- ![On](Screenshots/WhileOn.png)
+
+
+![On](Screenshots/WhileOn.png)
 
 
 Edit Web 
-- ![EDit](Screenshots/Edit.png)
+
+
+![EDit](Screenshots/Edit.png)
 
 
 Disable Extension
-- ![Off](Screenshots/Off.png)
 
+
+![Off](Screenshots/Off.png)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
