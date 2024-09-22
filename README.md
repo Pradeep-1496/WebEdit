@@ -69,4 +69,4 @@ A simple way of edit text without enable developer mode and inspect element on b
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
