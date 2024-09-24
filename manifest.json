@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "You can edit the any website text as you want\n Develop by Pradeep",
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": "./128logo.png"
   },
   "icons": {
     "16": "./16logo.jpg",
