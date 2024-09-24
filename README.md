@@ -20,7 +20,6 @@ A simple way of edit text without enable developer mode and inspect element on b
 
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
-![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=whitee)
 
 ## Screenshots
 
