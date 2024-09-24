@@ -65,7 +65,7 @@ A simple way of edit text without enable developer mode and inspect element on b
 - Pin the Extension (Web Edit)
 - Enjoy the tool
 
-
+---
 
 ## 🚀 About Me
 - I'm Tech enthusiast that have knowledge of programming with Development 
