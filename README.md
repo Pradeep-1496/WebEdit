@@ -66,6 +66,16 @@ A simple way of edit text without enable developer mode and inspect element on b
 - Enjoy the tool
 
 
+
+## 🚀 About Me
+- I'm Tech enthusiast that have knowledge of programming with Development 
+- I love to develop reallife problem solution software or systems
+- Also like to Contribute within open source also
+- If you like my work then star my Repository to helpful for other also
+
+
+
+
 ## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
