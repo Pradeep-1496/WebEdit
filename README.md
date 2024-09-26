@@ -1,4 +1,4 @@
-<p align="center">
+
 # Simple Web Extension to edit text 
 
 A simple way of edit text without enable developer mode and inspect element on browser
@@ -20,7 +20,6 @@ A simple way of edit text without enable developer mode and inspect element on b
 
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
-</p>
 ## Screenshots
 
 ### Before Editing
