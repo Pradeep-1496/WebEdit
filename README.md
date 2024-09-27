@@ -77,4 +77,4 @@ A simple way of edit text without enable developer mode and inspect element on b
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]([https://choosealicense.com/licenses/mit/](https://github.com/Pradeep-1496/WebEdit/blob/main/LICENSE.txt))
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Pradeep-1496/WebEdit/blob/main/LICENSE.txt)
