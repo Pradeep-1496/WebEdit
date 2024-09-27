@@ -70,7 +70,7 @@ A simple way of edit text without enable developer mode and inspect element on b
 - I'm Tech enthusiast that have knowledge of programming with Development 
 - I love to develop reallife problem solution software or systems
 - Also like to Contribute within open source also
-- If you like my work then star my Repository to helpful for other also
+- If you like my work then star my Repository to helpful for other too.
 
 
 
