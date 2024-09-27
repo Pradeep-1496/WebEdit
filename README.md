@@ -3,6 +3,17 @@
 
 A simple way of edit text without enable developer mode and inspect element on browser
 
+
+
+## Tech Stack
+
+![HTML](https://readmebadge.vercel.app/badges/html.svg) 
+
+![CSS](https://readmebadge.vercel.app/badges/css.svg)
+
+![Javascript](https://readmebadge.vercel.app/badges/javascript.svg)
+
+
 ## Authors
 
 - [@Pradeep-1496](https://github.com/Pradeep-1496)
